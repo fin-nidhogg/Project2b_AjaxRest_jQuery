@@ -4,7 +4,7 @@ Web-sovellusten kehittäminen Javascriptillä TO00BL10-3018
 Sovellus hakee päivämäärän sekä valitun teatterin perusteella kaikki näytökset yhteen helppolukuiseen listaan.
 HUOM! Annathan alussa Javascriptille tovin aikaa tehdä omat taikansa. (Hää meinaa _edelleen_ hakee KAIKKIEN teatterien KAIKKI NÄYTÖKSET.....)
 
-[>> Netlifyssä julkaistu demo löytyy täältä <<]()   
+[>> Netlifyssä julkaistu demo löytyy täältä <<](https://jqueryleffaan.netlify.app/)   
 [>> Projektin esittelyvideo täällä <<]()
 
 ## Referenssit.
