@@ -7,6 +7,7 @@ $(function () {
         dateFormat: "dd.mm.yy"
     });
 });
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 // Instantly after loading window, retrieve and render all possible theatre options from finnkino API
 //////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -104,7 +105,7 @@ function createShows(xml) {
         });
         $(".slidable").fadeIn(1500);
     }
-    // Else show error message
+    // show error message if array containing shows is empty
     else {
 
         let htmlElement = `<tr class="slidable">
@@ -113,7 +114,6 @@ function createShows(xml) {
         Ettei nyt vain olisi päivämäärä keturallaan?</p>
         </td>
         </tr>`
-
         $("#shows").html(htmlElement);
         $(".slidable").fadeIn(1500);
     };
