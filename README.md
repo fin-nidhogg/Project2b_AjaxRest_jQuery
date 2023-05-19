@@ -6,7 +6,7 @@ Sovellus hakee päivämäärän sekä valitun teatterin perusteella kaikki näyt
 HUOM! Annathan alussa Javascriptille tovin aikaa tehdä omat taikansa. (Hää meinaa _edelleen_ hakee KAIKKIEN teatterien KAIKKI NÄYTÖKSET.....)
 
 [>> Netlifyssä julkaistu demo löytyy täältä <<](https://jqueryleffaan.netlify.app/)  
-[>> Projektin esittelyvideo täällä <<]()
+[>> Projektin esittelyvideo täällä <<](https://video.laurea.fi/media/Project2b_AjaxRest_jQuery/0_6bjl5vjb)  
 
 ## Referenssit.
 
